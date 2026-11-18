@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Clan Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://finjavoltz-byte.github.io/fonts/FontFont%20-%20Clan%20Pro%20Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Clan Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url('https://finjavoltz-byte.github.io/fonts/FontFont%20-%20Clan%20Pro%20Medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Clan Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://finjavoltz-byte.github.io/fonts/FontFont%20-%20Clan%20Pro%20Bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Clan Pro';
+  font-style: normal;
+  font-weight: 900;
+  src: url('https://finjavoltz-byte.github.io/fonts/FontFont%20-%20Clan%20Pro%20Black.woff2') format('woff2');
+}
